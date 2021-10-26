@@ -1,4 +1,4 @@
-https://whttps://www.youtube.com/watch?v=iJKCj8uAHz8          1:45
+https://www.youtube.com/watch?v=iJKCj8uAHz8          1:45
 
 click derecho --> git bash here
 npm init
